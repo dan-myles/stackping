@@ -1,0 +1,28 @@
+{
+  "action": "completed",
+  "repository": {
+    "id": 424242,
+    "full_name": "dan-myles/stackping-sandbox",
+    "default_branch": "main"
+  },
+  "check_run": {
+    "id": 77,
+    "name": "test",
+    "status": "completed",
+    "conclusion": "failure",
+    "head_sha": "sha2",
+    "html_url": "https://github.com/dan-myles/stackping-sandbox/runs/77",
+    "details_url": null,
+    "started_at": "2026-10-14T16:01:00Z",
+    "completed_at": "2026-10-14T16:02:00Z",
+    "pull_requests": [
+      {
+        "number": 2
+      }
+    ],
+    "output": {
+      "title": null,
+      "summary": null
+    }
+  }
+}
