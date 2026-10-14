@@ -1,0 +1,52 @@
+{
+  "action": "opened",
+  "repository": {
+    "id": 424242,
+    "full_name": "dan-myles/stackping-sandbox",
+    "default_branch": "main"
+  },
+  "sender": {
+    "id": 1,
+    "login": "dan-myles",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1"
+  },
+  "pull_request": {
+    "number": 1,
+    "title": "feat: add the widget model",
+    "html_url": "https://github.com/dan-myles/stackping-sandbox/pull/1",
+    "state": "open",
+    "draft": false,
+    "merged": false,
+    "updated_at": "2026-10-14T16:00:00Z",
+    "user": {
+      "id": 1,
+      "login": "dan-myles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1"
+    },
+    "requested_reviewers": [
+      {
+        "id": 2,
+        "login": "octocat",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2"
+      }
+    ],
+    "requested_teams": [],
+    "additions": 40,
+    "deletions": 1,
+    "changed_files": 1,
+    "commits": 1,
+    "head": {
+      "ref": "feat-a",
+      "sha": "sha1",
+      "repo": {
+        "id": 424242
+      }
+    },
+    "base": {
+      "ref": "main",
+      "repo": {
+        "id": 424242
+      }
+    }
+  }
+}

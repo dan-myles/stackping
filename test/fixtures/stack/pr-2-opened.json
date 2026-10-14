@@ -1,0 +1,52 @@
+{
+  "action": "opened",
+  "repository": {
+    "id": 424242,
+    "full_name": "dan-myles/stackping-sandbox",
+    "default_branch": "main"
+  },
+  "sender": {
+    "id": 1,
+    "login": "dan-myles",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1"
+  },
+  "pull_request": {
+    "number": 2,
+    "title": "feat: widget API",
+    "html_url": "https://github.com/dan-myles/stackping-sandbox/pull/2",
+    "state": "open",
+    "draft": false,
+    "merged": false,
+    "updated_at": "2026-10-14T16:00:00Z",
+    "user": {
+      "id": 1,
+      "login": "dan-myles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1"
+    },
+    "requested_reviewers": [
+      {
+        "id": 2,
+        "login": "octocat",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2"
+      }
+    ],
+    "requested_teams": [],
+    "additions": 80,
+    "deletions": 2,
+    "changed_files": 2,
+    "commits": 1,
+    "head": {
+      "ref": "feat-b",
+      "sha": "sha2",
+      "repo": {
+        "id": 424242
+      }
+    },
+    "base": {
+      "ref": "feat-a",
+      "repo": {
+        "id": 424242
+      }
+    }
+  }
+}
