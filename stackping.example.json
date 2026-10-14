@@ -1,0 +1,13 @@
+{
+  "stage": "prod",
+  "slack": { "channel": "C0123ABCD" },
+  "repos": [
+    { "repo": "acme/web" },
+    { "repo": "acme/api", "channel": "C0456EFGH", "trunks": ["develop"] }
+  ],
+  "users": {
+    "octocat": "U0123ABCD"
+  },
+  "links": "graphite",
+  "replies": true
+}
