@@ -1,0 +1,12 @@
+node_modules/
+.alchemy/
+.cache/
+coverage/
+dist/
+
+.env
+.env.*
+!.env.example
+
+*.tsbuildinfo
+stackping.json
